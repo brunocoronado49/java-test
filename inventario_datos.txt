@@ -1,0 +1,2 @@
+P001, Teclado gamer, 850.26, 9
+P002, Mouse del gato, 199.26, 5
